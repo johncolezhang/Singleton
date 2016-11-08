@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+.myicon-mydir{
+	background:url('myicons/mydir.png') no-repeat center center;
+}
+.myicon-myfile{
+	background:url('myicons/myfile.png') no-repeat center center;
+}
